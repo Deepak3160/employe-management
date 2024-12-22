@@ -1,0 +1,12 @@
+
+.table-responsive {
+    overflow-x: auto;
+
+.table {
+    width: 100%; 
+}
+
+.card-body {
+    position: relative;
+}
+}
